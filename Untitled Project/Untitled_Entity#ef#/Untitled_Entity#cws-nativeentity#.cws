@@ -484,7 +484,7 @@
 							<CreatedBy>sysadmin</CreatedBy>
 							<CreationDate>2022-04-07T10:22:00.13</CreationDate>
 							<Notes/>
-							<DefaultValue></DefaultValue>
+							<DefaultValue>1</DefaultValue>
 							<Length>64</Length>
 							<Pattern></Pattern>
 							<lowerBound>1</lowerBound>
