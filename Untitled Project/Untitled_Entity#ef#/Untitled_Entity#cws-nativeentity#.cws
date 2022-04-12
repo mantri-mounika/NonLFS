@@ -340,7 +340,7 @@
 							<CreatedBy>sysadmin</CreatedBy>
 							<CreationDate>2022-04-07T10:22:00.13</CreationDate>
 							<Notes/>
-							<DefaultValue></DefaultValue>
+							<DefaultValue>11</DefaultValue>
 							<Max></Max>
 							<Min></Min>
 							<lowerBound>1</lowerBound>
