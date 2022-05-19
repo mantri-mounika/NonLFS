@@ -2,7 +2,7 @@
 <Form
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.entity.buildingblocks.form.Form"
-	typeVersion="0CA776C6-AB26-4169-BB59-8FA43A8952DC"
+	typeVersion="833DF4E2-F154-4679-903D-BB3C991CF7CA"
 	RuntimeDocumentID="8C164501-C564-A1EC-AE85-9182DE80B854">
 	<DocumentID>8C164501-C564-A1EC-AE8C-AD9EBC3CF854</DocumentID>
 	<Name>Create</Name>
@@ -37,16 +37,21 @@
 			<IsContainer>true</IsContainer>
 			<Action/>
 			<ConstrainByRelationship/>
+			<CreatableAssociations/>
 			<CustomScript/>
+			<FilterCriteria/>
 			<Form/>
+			<FormComponentCategories/>
 			<FormComponentDateFormat/>
 			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
 			<Image/>
 			<LocalizableLabel/>
 			<LocalizableTooltip/>
 			<ParentComponent/>
 			<PathRelationships/>
 			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
 			<Property/>
 			<Relationship/>
 			<RelationshipPath/>
@@ -70,10 +75,14 @@
 			<IsContainer>false</IsContainer>
 			<Action/>
 			<ConstrainByRelationship/>
+			<CreatableAssociations/>
 			<CustomScript/>
+			<FilterCriteria/>
 			<Form/>
+			<FormComponentCategories/>
 			<FormComponentDateFormat/>
 			<FormComponentDateTimeFormat/>
+			<FullviewLayoutAssociation/>
 			<Image/>
 			<LocalizableLabel/>
 			<LocalizableTooltip/>
@@ -84,6 +93,7 @@
 			</ParentComponent>
 			<PathRelationships/>
 			<PickerWorklist/>
+			<PreviewLayoutAssociation/>
 			<Property>
 				<uri
 					id="8C164501-C564-A1EC-AE85-9182DE817854"

@@ -2,7 +2,7 @@
 <ActivityflowBuildingBlock
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.entity.buildingblocks.activityflow.ActivityflowBuildingBlock"
-	typeVersion="3568fec5-9dc8-4e88-9450-22fba3065552"
+	typeVersion="193b483e-a3b1-11ec-b909-0242ac120002"
 	RuntimeDocumentID="8C164501-C564-A1EC-B569-14340F82385A">
 	<DocumentID>8C164501-C564-A1EC-B569-14340F81F85A</DocumentID>
 	<Name>ActivityFlow</Name>
@@ -27,26 +27,6 @@
 			<Description>Initiate activity flow</Description>
 			<CreatedBy>sysadmin</CreatedBy>
 			<CreationDate>2022-05-17T05:51:03.184</CreationDate>
-			<Notes/>
-		</ActivityflowStaticAction>
-		<ActivityflowStaticAction
-			type="com.cordys.entity.buildingblocks.activityflow.ActivityflowStaticAction"
-			RuntimeDocumentID="8177FAA736BE4CC7B0B94C046E195C09">
-			<DocumentID>8C164501-C564-A1EC-B569-14340F80F85A</DocumentID>
-			<Name>TerminateFlow</Name>
-			<Description>Terminate flow</Description>
-			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2022-05-17T05:51:03.176</CreationDate>
-			<Notes/>
-		</ActivityflowStaticAction>
-		<ActivityflowStaticAction
-			type="com.cordys.entity.buildingblocks.activityflow.ActivityflowStaticAction"
-			RuntimeDocumentID="250BA7F770A04B3FAF6073D58A08552E">
-			<DocumentID>8C164501-C564-A1EC-B569-14340F80785A</DocumentID>
-			<Name>StartFlow</Name>
-			<Description>Start flow</Description>
-			<CreatedBy>sysadmin</CreatedBy>
-			<CreationDate>2022-05-17T05:51:03.182</CreationDate>
 			<Notes/>
 		</ActivityflowStaticAction>
 	</OwnedActions>
